@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="NPCS"/>
+	<classpathentry kind="src" path="Enemies"/>
+	<classpathentry kind="src" path="Items"/>
+	<classpathentry kind="src" path="Loaders"/>
+	<classpathentry kind="src" path="Sensors"/>
+	<classpathentry kind="src" path="Weapons"/>
+	<classpathentry kind="src" path="Commands"/>
+	<classpathentry kind="lib" path="C:/Users/iixfl/Downloads/json-simple-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,183 @@
+RoomName: Bed Compartment
+Number: 1
+Desc: You wake up in a small compartment.
+Desc: Your friend Theo is reading a book by the nightlight.
+Desc: To the east is the Bathroom compartment.
+Desc: To the west lies the Dining compartment.
+Exit: East 2
+Exit: West 3
+
+RoomName: Bathroom Compartment
+Number: 2
+Desc: The stalls seem unclean. Some door hinges have been broken.
+Desc: Vandalism on the wall reads out "AUS". What could that mean?
+Desc: There's nothing left to do here.
+Desc: To the west lies the Bed Compartment.
+Exit: West 1
+
+RoomName: Dining Compartment
+Number: 3
+Desc: The room is filled with people and bustling sounds. 
+Desc: The smell of Wagyu Steak fills the air. You feel hungry.
+Desc: To the east lies the Bed Compartment.
+Exit: West 4
+Exit: East 1
+
+RoomName: First Class Compartment
+Number: 4
+Desc: The room is unusually empty, everyone went to eat in the dining hall. 
+Desc: You spot a junkie that looks out of place. He appears to be high on TechTranq.
+Desc: To the east lies the Bed Compartment.
+Desc: To the west lies the NanoRail Entrance Compartment.
+Exit: West 5
+Exit: East 3
+
+RoomName: NanoRail Entrance Compartment
+Number: 5
+Desc: The train has reached the station, the NanoRail's Gates begin to open...
+Desc: Exiting through the north entrance leads to the NanoRail Station.
+Desc: Walking west would take you to the Pilot Chamber.
+Exit: North 7
+Exit: West 6
+Exit: East 4
+
+RoomName: Pilot Chamber
+Number: 6
+Desc: The pilots are busy, they seem to be talking to the NanoRail Coordinator.
+Desc: You spot an unsupervised Credit Cache. You contemplate taking it.
+Desc: Note: Credit is this game's currency.
+Desc: To the east lies the NanoRail Entrance Compartment
+Exit: East 5
+
+RoomName: NanoRail Station
+Number: 7
+Desc: Welcome to the Station.
+Desc: The NanoRail is Departing...
+Desc: North lies the City Centre
+Exit: North 8
+
+RoomName: City Centre
+Number: 8
+Desc: You reach the city centre, where paths diverge.
+Desc: Going east would take you to the eastern part of the centre, where you can find shops.
+Desc: Going west would take you to the western part of the centre, where you would find The Zero Zone.
+Desc: Directly north of you lies RejuveTech's Building.
+Exit: East 9
+Exit: West 13
+Exit: North 12
+
+RoomName: City Centre East
+Number: 9
+Desc: You are surrounded by various shops. You think about which one to enter...
+Desc: East lies the CasineNo, where Marcus the Dealer resides.
+Desc: South lies the Arms Dealer, who sells all sorts of guns.
+Desc: Going West will take you back to the City Centre.
+Exit: South 11
+Exit: East 10
+Exit: West 8
+
+
+RoomName: CasineNo
+Number: 10
+Desc: Welcome to CasineNo - Where the riches are made!
+Desc: Exiting west takes you to City Centre East.
+Exit: West 9
+
+RoomName: ShadowArms
+Number: 11
+Desc: Welcome to the ShadowArms!
+Desc: Exiting north takes you to City Centre East.
+Exit: north 9
+
+RoomName: RejuveTech Building Gate
+Number: 12
+Desc: 2 Guards stand in your way.
+Desc: Unauthorized Access is denied. Bring an Entry Key
+Desc: South Lies the City centre.
+Desc: Going Up takes you to the first floor.
+Exit: South 8
+Exit: Up 20
+
+RoomName: City Centre West
+Number: 13
+Desc: Nothing really interesting lies here.
+Desc: West lies the entry to the Zero Zone.
+Desc: East lies the City Centre.
+Exit: West 14
+Exit: East 8
+
+RoomName: Zero Zone Entry
+Number: 14
+Desc: A seemingly desolate place, with broken down shacks all around.
+Desc: The air smells like moldy Wagyu Steak, but no steak is in sight.
+Desc: Moving North, West, or South would lead to a different abandoned shack.
+Desc: Moving east would take you back to City Centre West.
+Exit: North 15
+Exit: West 16
+Exit: South 17
+Exit: East 13
+
+RoomName: Abandoned Shack 1 
+Number: 15
+Desc: The place seems ransacked, but one might find something hidden.
+Desc: South lies the Zero Zone entry.
+Desc: West lies the infamous TechTranq Shack, where a fodder lies.
+Exit: South 14
+Exit: West 18
+
+RoomName: Abandoned Shack 2
+Number: 16
+Desc: The place seems ransacked, but one might find something hidden.
+Desc: East lies the Zero Zone entry.
+Desc: West lies the infamous TechTranq Shack, where a fodder lies.
+Exit: East 14
+Exit: West 18
+
+RoomName: Abandoned Shack 3
+Number: 17
+Desc: The place seems ransacked, but one might find something hidden.
+Desc: North lies the Zero Zone entry
+Desc: West lies the infamous TechTranq Shack, where a fodder lies.
+Exit: North 14
+Exit: West 18
+
+RoomName: TechTranq Shack
+Number: 18
+Desc: You delve into the Shack, hoping that an elite isn't here.
+Desc: West lies the Stash.
+Desc: East lies the Second Abandoned Shack.
+Exit: West 19
+Exit: East 16
+
+RoomName: The Stash.
+Number: 19
+Desc: You managed to defeat an elite!.
+Desc: The loot here is all yours.
+Desc: East lies the TechTranq Shack.
+Desc: West lies a shortcut back to the City Centre West.
+Exit: East 18
+Exit: West 13
+
+RoomName: RejuveTech's First Floor
+Number: 20
+Desc: The building gate is surronded now, there is no going back.
+Desc: Only way now is up.
+Exit: Up 21
+
+RoomName: RejuveTech's Second Floor
+Number: 21
+Desc: Only 1 Floor left before you reach the First-In-Command.
+Desc: Only way now is up.
+Exit: Up 22
+
+RoomName: RejuveTech's Final Floor, Boss Encounter.
+Number: 22
+Desc: This is it. This is do or die now!
+
+
+
+
+
+
+
+

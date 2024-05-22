@@ -1,0 +1,7 @@
+Name: coins 2
+Name: coins 6
+Name: coins 15
+Name: coins 16
+Name: coins 17
+Name: coins 19
+Name: Key 19
